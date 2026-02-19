@@ -1,8 +1,7 @@
-\#Mon repo doc 
+Pet the cat or face consequence
 
-  /\___/\
  ( =^.^= )
- (")___(")
+
 
 
 
