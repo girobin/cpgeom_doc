@@ -1,7 +1,7 @@
 
-Les sanglots longs\
-Des violons\
-De l’automne\
-Blessent mon cœur\
-D’une langueur\
-Monotone.
+sudo git status
+\
+sudo git commit -a -m "modif readme"
+\
+sudo git push -u origin main
+\
