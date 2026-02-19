@@ -1,36 +1,14 @@
-j'ai faim
+\# CPGEOM 2026 
+
+---
+
+\## 🛠 Installation
 
 
 
-saucisson !
+1\. Clone le dépôt :
 
-saucisson !
+&nbsp;  ```bash
 
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-saucisson !
-
-
+&nbsp;  git clone https://github.com/ton-utilisateur/ton-projet.git
 
