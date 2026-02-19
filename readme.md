@@ -1,12 +1,9 @@
-\# CPGEOM 2026 
+\#Mon repo doc 
 
----
+  /\___/\
+ ( =^.^= )
+ (")___(")
 
-\##  Installation
 
 
-
-1\. Clone le dépôt :
-
-&nbsp;  git clone https://github.com/ton-utilisateur/ton-projet.git
 
